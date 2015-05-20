@@ -5,7 +5,6 @@ Python3.4 push server for Google Cloud Messaging for Android(GCM)
 
 Installation
 -------------
-.. code-block:: bash
 
    pip install requests
 
@@ -15,13 +14,9 @@ Example
 You need to put `android.pem` and `GCM.py` into your develop path
 android.pem
 
-.. code-block:: bash
-	
 	API_Key
 
 example.py
-
-.. code-block:: python
 
 	from GCM import *
 
