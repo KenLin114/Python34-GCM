@@ -18,7 +18,7 @@ android.pem
 	
 	API_Key
 
-test.py
+example.py
 
 .. code-block:: python
 
