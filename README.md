@@ -10,7 +10,7 @@ Installation
 
 Example
 -----
-You need to put `android.pem` and `GCM.py` into your develop path
+You need to put `android.pem` and `GCM.py` into your development path
 
 android.pem
 
