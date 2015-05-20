@@ -10,8 +10,16 @@ Installation
    pip install requests
 
 
-Usage
+Example
 ------------
+android.pem
+
+.. code-block:: bash
+	
+	API_Key
+
+test.py
+
 .. code-block:: python
 
 	from GCM import *
