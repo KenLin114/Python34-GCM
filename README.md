@@ -18,10 +18,10 @@ android.pem
 
 example.py
 
+	# -*- coding: utf-8 -*-
 	from GCM import *
 
 	class Test(object):
-
 		def __init__(self):
 			self.gcm = GCM()
 
